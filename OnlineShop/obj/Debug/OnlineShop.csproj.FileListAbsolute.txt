@@ -1,0 +1,12 @@
+E:\Programming\#mentoring2016\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe.config
+E:\Programming\#mentoring2016\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe
+E:\Programming\#mentoring2016\OnlineShop\OnlineShop\bin\Debug\OnlineShop.pdb
+E:\Programming\#mentoring2016\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
+E:\Programming\#mentoring2016\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe
+E:\Programming\#mentoring2016\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\Git\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe.config
+E:\Git\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe
+E:\Git\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\Git\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe
+E:\Git\OnlineShop\OnlineShop\bin\Debug\OnlineShop.pdb
+E:\Git\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
